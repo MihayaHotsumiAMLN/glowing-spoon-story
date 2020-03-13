@@ -15,3 +15,8 @@ Watching the dirt disappear from under his vacuum was satisfying. Jimmy likes ro
 It makes it easy for him to water his plants every day. They might be fake.
 
 One day our x team went to cs354 lecture and find out that Jimmy is the professor on the stage. Jimmy said happily that  "today we are goinf to talk about dynamic memory allocation. To coaleces a freed block you need to check 3 cases. Then you don't need to overwrite the blockheader of the memory block that has been merged, you can just change the header of the whole block that you merged into ".(ps:jimmy really is my 354 professor lol)
+
+Jimmy was struck by a meteorite somehow. He melted and fused with the earth.
+In the end, he became the earth. He will continue to revolve around the sun
+until the end of time. In the end, the sun and earth is sucked into a black
+hole and ends the world. Jimmy lived a good life as a spoon. Congrats Jimmy.
